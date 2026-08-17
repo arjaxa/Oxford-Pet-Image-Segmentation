@@ -68,8 +68,7 @@ The model achieved a mean Intersection over Union (IoU) of **63.34%** across the
 
 Example predictions are shown below:
 
-![Segmentation Results](<img width="2042" height="1777" alt="segmentation_results" src="https://github.com/user-attachments/assets/8bf5dd14-5e34-4744-9ec7-48bb36a08656" />
-)
+![Segmentation Results](segmentation_results.png)
 
 The model is able to produce visually meaningful segmentation masks and capture the overall shape and structure of the pets.
 
